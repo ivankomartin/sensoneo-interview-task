@@ -1,6 +1,6 @@
-# Sensoneo React Senior Developer Interview Task
+# Sensoneo Interview Task
 
-Welcome to the Sensoneo React Senior Developer interview task! This project is designed to assess your React, TypeScript, and frontend development skills.
+Welcome to the Sensoneo interview task! This project is designed to assess your React, TypeScript, and frontend development skills.
 
 ## Project Overview
 
@@ -89,7 +89,7 @@ While we've provided a solid foundation, **you're free to:**
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://sensoneo@dev.azure.com/sensoneo/react-interview-tasks/_git/senior-react-interview-task
+git clone <repo-url>
 cd senior-react-interview-task
 ```
 
